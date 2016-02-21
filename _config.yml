@@ -1,0 +1,10 @@
+# Site settings
+title: U of T EEB Bioinformatics Club & Workshop
+email: tyler.kent@mail.utoronto.ca
+description:  Hosting slides from meetings, resources, and a schedule.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://Bioinformatics-club.github.io" # the base hostname & protocol for your site
+github_username:  Bioinformatics-club
+
+# Build settings
+markdown: kramdown
